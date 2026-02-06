@@ -95,6 +95,7 @@ Klik **Create Task** (jangan pilih *Basic Task*)
 - Advanced settings:
   - Repeat task every: **1 hour**
   - For a duration of: **Indefinitely**
+- Centang **enable**
 - Klik **OK**
 
 ---
@@ -108,12 +109,13 @@ Klik **Create Task** (jangan pilih *Basic Task*)
   ```
 - Add arguments:
   ```
-  -ExecutionPolicy Bypass -File "C:\Path\Ke\WA-Web-Runtime-Optimizer.ps1"
+  -ExecutionPolicy Bypass -File "C:\Users\ncexs\Downloads\WA-Web-Runtime-Optimizer.ps1"
   ```
-- Start in (contoh) :
+- Start in (optional) :
   ```
   C:\Users\ncexs\Downloads\WA-Web-Runtime-Optimizer.ps1
-  ```
+
+- Ganti `C:\Users\ncexs\Downloads\` sesuai lokasi kamu menyimpan script 
 
 ---
 
